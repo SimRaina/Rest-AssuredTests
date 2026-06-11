@@ -10,7 +10,6 @@ public class ExtentTestManager {
 	static Map<Integer, ExtentTest> extentTestMap = new HashMap<Integer, ExtentTest>();
 	static ExtentReports extent = ExtentManager.getInstance();
 
-	@SuppressWarnings("deprecation")
 	public static synchronized ExtentTest getTest() {
 		return (ExtentTest) extentTestMap.get((int) (long) (Thread.currentThread().getId()));
 	}
@@ -19,7 +18,6 @@ public class ExtentTestManager {
 		extent.flush();
 	}
 
-	@SuppressWarnings("deprecation")
 	public static synchronized ExtentTest startTest(String testName) {
 		ExtentTest test = extent.createTest(testName);
 		extentTestMap.put((int) (long) (Thread.currentThread().getId()), test);
