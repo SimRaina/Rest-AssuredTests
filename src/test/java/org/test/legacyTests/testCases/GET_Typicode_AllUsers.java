@@ -1,4 +1,4 @@
-package org.test.testAssured.testCases;
+package org.test.legacyTests.testCases;
 
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;

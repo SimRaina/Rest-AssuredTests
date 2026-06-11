@@ -1,4 +1,4 @@
-package org.test.testAssured.HTTPMethods;
+package org.test.legacyTests.HTTPMethods;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;

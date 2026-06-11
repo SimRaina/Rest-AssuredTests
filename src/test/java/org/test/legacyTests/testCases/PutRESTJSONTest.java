@@ -1,4 +1,4 @@
-package org.test.testCases;
+package org.test.legacyTests.testCases;
 
 import org.json.simple.JSONObject;
 import org.testng.annotations.Test;

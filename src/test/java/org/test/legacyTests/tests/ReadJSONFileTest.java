@@ -1,4 +1,4 @@
-package org.test.testAssured.tests;
+package org.test.legacyTests.tests;
 
 import java.io.File;
 import java.nio.file.Files;

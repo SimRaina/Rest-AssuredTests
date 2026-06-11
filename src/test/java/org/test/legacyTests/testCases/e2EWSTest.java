@@ -1,4 +1,4 @@
-package org.test.testAssured.e2e;
+package org.test.legacyTests.testCases;
 
 import java.util.ArrayList;
 import static io.restassured.RestAssured.*;
@@ -10,7 +10,7 @@ import org.test.configReader.ConfigReader;
 import org.test.ExcelReader.ExcelReaderTest;
 
 @Listeners(org.test.Listener.ListenerTest.class)
-public class E2E_WSTest {
+public class e2EWSTest {
 	
 	String host = ConfigReader.getValueFromPropertyFile("BooksAPI_Host");
 	ExcelReaderTest excel;

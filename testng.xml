@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/simra/RestAssuredTests">
         <classes>
-            <class name="org.test.testCases.BooksAPIe2eTest"/>
+            <class name="org.test.legacyTests.testCases.BooksAPIe2eTest"/>
         </classes>
     </test>
 </suite>

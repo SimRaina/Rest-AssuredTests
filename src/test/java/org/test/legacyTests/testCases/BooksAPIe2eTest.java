@@ -1,4 +1,4 @@
-package org.test.testCases;
+package org.test.legacyTests.testCases;
 
 import org.test.ExcelReader.ExcelReaderTest;
 import org.testng.annotations.Test;

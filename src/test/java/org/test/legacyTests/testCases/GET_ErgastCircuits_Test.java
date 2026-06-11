@@ -1,4 +1,4 @@
-package org.test.testAssured.testCases;
+package org.test.legacyTests.testCases;
 
 
 import org.testng.annotations.Listeners;

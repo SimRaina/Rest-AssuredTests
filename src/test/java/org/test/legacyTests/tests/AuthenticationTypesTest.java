@@ -1,4 +1,4 @@
-package org.test.testAssured.tests;
+package org.test.legacyTests.tests;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;        
