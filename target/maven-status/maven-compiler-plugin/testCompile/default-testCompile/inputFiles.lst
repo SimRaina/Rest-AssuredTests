@@ -1,3 +1,7 @@
+C:\Users\simra\Desktop\Rest-AssuredTests\src\test\java\org\test\base\APIConfig.java
+C:\Users\simra\Desktop\Rest-AssuredTests\src\test\java\org\test\base\APIHelper.java
+C:\Users\simra\Desktop\Rest-AssuredTests\src\test\java\org\test\base\BaseTest.java
+C:\Users\simra\Desktop\Rest-AssuredTests\src\test\java\org\test\base\TestDataProvider.java
 C:\Users\simra\Desktop\Rest-AssuredTests\src\test\java\org\test\pojoTests\SerializeDeserializeTest.java
 C:\Users\simra\Desktop\Rest-AssuredTests\src\test\java\org\test\pojoTests\TypicodeTest.java
 C:\Users\simra\Desktop\Rest-AssuredTests\src\test\java\org\test\testAssured\e2e\E2E_WSTest.java
@@ -23,3 +27,8 @@ C:\Users\simra\Desktop\Rest-AssuredTests\src\test\java\org\test\testCases\Delete
 C:\Users\simra\Desktop\Rest-AssuredTests\src\test\java\org\test\testCases\GetRESTXMLTest.java
 C:\Users\simra\Desktop\Rest-AssuredTests\src\test\java\org\test\testCases\PostRESTJSONTest.java
 C:\Users\simra\Desktop\Rest-AssuredTests\src\test\java\org\test\testCases\PutRESTJSONTest.java
+C:\Users\simra\Desktop\Rest-AssuredTests\src\test\java\org\test\tests\advanced\AdvancedAssertionsTest.java
+C:\Users\simra\Desktop\Rest-AssuredTests\src\test\java\org\test\tests\advanced\POJOSerializationTest.java
+C:\Users\simra\Desktop\Rest-AssuredTests\src\test\java\org\test\tests\api\BooksAPITest.java
+C:\Users\simra\Desktop\Rest-AssuredTests\src\test\java\org\test\tests\api\DummyRestAPITest.java
+C:\Users\simra\Desktop\Rest-AssuredTests\src\test\java\org\test\tests\api\ExternalAPIsTest.java
