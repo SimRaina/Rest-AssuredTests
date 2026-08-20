@@ -1,0 +1,19 @@
+package org.test;
+public class SpecFactory {
+
+    public static RequestSpecification requestSpec() {
+
+        return new RequestSpecBuilder()
+            .setBaseUri(ConfigReader.getBaseUrl())
+            .setContentType(ContentType.JSON)
+            .setAccept(ContentType.JSON)
+            .build();
+    }
+
+    public static ResponseSpecification successResponse() {
+
+        return new ResponseSpecBuilder()
+            .expectContentType(ContentType.JSON)
+            .build();
+    }
+}
